@@ -13,6 +13,8 @@ The program's flow is as such:
 Example of expression containing all valid operations: <br>
 `3 + 8 * ((4 + 3) * 2 + 1) - 6 / (2 + 1)`
 
+An example of various inputs and their resuting outputs:
+
     8 * 3 + 12 * (4 - 2)
     48
     2 - 2 + 3
