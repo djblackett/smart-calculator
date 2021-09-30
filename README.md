@@ -1,5 +1,6 @@
 # smart-calculator
-Console calculator in Java
+
+## Console calculator in Java
 
 This is a console based calculator that respects the order of operations. It currently supports addition, subtraction, multiplication, division, and parentheses. 
 The Big Integer class is used when the length of the input requires it. 
@@ -9,11 +10,15 @@ The program's flow is as such:
 2) Tokenize input - put all numbers and operators in a List, in order of input
 3) Convert infix to postfix notation (Reverse Polish Notation) - Postfix is more computer friendly than infix notation
 4) Do operations
+<br>
 
-Example of expression containing all valid operations: <br>
+
+### Example of expression containing all valid operations: <br>
 `3 + 8 * ((4 + 3) * 2 + 1) - 6 / (2 + 1)`
 
-An example of various inputs and their resuting outputs:
+<br>
+
+### Example of various inputs and their resuting outputs:
 
     8 * 3 + 12 * (4 - 2)
     48
