@@ -48,3 +48,15 @@ The program's flow is as such:
     Invalid expression
     4+3)
     Invalid expression
+    
+    
+    
+### BigIntegers
+    112234567890 + 112234567890 * (10000000999 - 999)
+    1122345679012234567890
+    a = 800000000000000000000000
+    b = 100000000000000000000000
+    a + b
+    900000000000000000000000
+    /exit
+    Bye!
