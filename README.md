@@ -2,7 +2,7 @@
 
 ## Console Calculator in Java
 
-This is a console based calculator that respects the order of operations. It currently supports addition, subtraction, multiplication, division, negative numbers, and parentheses. Decimal numbers are not supported. A more feature complete version of this calculator can be found in my swing-calculator repository.
+This is a console based calculator that respects the order of operations. It currently supports addition, subtraction, multiplication, division, negative numbers, and parentheses. Decimal numbers are not supported and will be truncated. A more feature complete version of this calculator can be found in my swing-calculator repository.
 
 You can assign numbers to variables for later use. Variables are not persisted and so will be reset when app is closed. Assigning another number to a variable will replace the previous value. Variables must contain only Latin letter and are case sensitive. Variables can also be assigned to variables. Inputting a variable name will print its value.
 
