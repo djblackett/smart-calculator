@@ -65,6 +65,7 @@ The program's flow is as such:
     
 ### Variable assignment
 The syntax for assigning variables is fairly forgiving. Variable names can be capital letters and more than one letter in length.
+
     n = 3
     m=4
     a  =   5
