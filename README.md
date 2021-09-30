@@ -1,8 +1,10 @@
 # smart-calculator
 
-## Console calculator in Java
+## Console Calculator in Java
 
-This is a console based calculator that respects the order of operations. It currently supports addition, subtraction, multiplication, division, and parentheses. 
+This is a console based calculator that respects the order of operations. It currently supports addition, subtraction, multiplication, division, negative numbers, and parentheses. 
+You can assign numbers to variables for later use. Variables are not persisted and so will be reset when app is closed. Assigning another number to a variable will replace the previous value.
+
 The Big Integer class is used when the length of the input requires it. 
 
 The program's flow is as such:
