@@ -10,3 +10,5 @@ The program's flow is as such:
 3) Convert infix to postfix notation (Reverse Polish Notation) - Postfix is more computer friendly than infix notation
 4) Do operations
 
+Example of expression containing all valid operations:
+<code>3 + 8 * ((4 + 3) * 2 + 1) - 6 / (2 + 1)</code>
