@@ -21,13 +21,13 @@ The program's flow is as such:
 <br>
 
 ### Valid commands: <br>
-`/help`
+`/help` <br>
 `/exit`
 
 
 <br>
 
-### Example of various inputs and their resuting outputs:
+### Examples of inputs/outputs:
 
     8 * 3 + 12 * (4 - 2)
     48
