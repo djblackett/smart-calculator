@@ -8,6 +8,12 @@ You can assign numbers to variables for later use. Variables are not persisted a
 
 The Big Integer class is used when the length of the input requires it. 
 
+<br>
+
+You can run the program at https://replit.com/@DaveAndrea/SmartCalculator#Main.java
+
+<br>
+
 The program's flow is as such:
 1) Read input
 2) Tokenize input - put all numbers and operators in a List, in order of input
